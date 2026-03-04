@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rmp-csuf/static/css/main.fc9e433f.css",
-    "main.js": "/rmp-csuf/static/js/main.05f40515.js",
+    "main.js": "/rmp-csuf/static/js/main.2916fb9c.js",
     "static/js/453.c43efc75.chunk.js": "/rmp-csuf/static/js/453.c43efc75.chunk.js",
     "index.html": "/rmp-csuf/index.html",
     "main.fc9e433f.css.map": "/rmp-csuf/static/css/main.fc9e433f.css.map",
-    "main.05f40515.js.map": "/rmp-csuf/static/js/main.05f40515.js.map",
+    "main.2916fb9c.js.map": "/rmp-csuf/static/js/main.2916fb9c.js.map",
     "453.c43efc75.chunk.js.map": "/rmp-csuf/static/js/453.c43efc75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc9e433f.css",
-    "static/js/main.05f40515.js"
+    "static/js/main.2916fb9c.js"
   ]
 }
