@@ -25,7 +25,7 @@ Search for any CSUF professor to see their ratings and reviews instantly!
 ## Installation
 
 ```bash
-# Clone the repository
+# Clone the repositorynpm install --save-dev gh-pages
 git clone https://github.com/rawmoz/rmp-csuf.git
 
 # Navigate to project directory

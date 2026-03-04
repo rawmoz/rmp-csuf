@@ -99,7 +99,11 @@ function App() {
         variables = { text: searchQuery };
       }
 
-      const response = await fetch('https://www.ratemyprofessors.com/graphql', {
+      // Use CORS proxy to bypass CORS restrictions on GitHub Pages
+      const corsProxy = 'https://corsproxy.io/?';
+      const apiUrl = 'https://www.ratemyprofessors.com/graphql';
+      
+      const response = await fetch(corsProxy + encodeURIComponent(apiUrl), {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
